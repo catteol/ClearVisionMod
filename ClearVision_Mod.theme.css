@@ -8,7 +8,6 @@ IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
 ---------------------------------------------------------------------------------------------------------------------------------------------
 */
 /*
----------------------------------------------------------------------------------------------------------------------------------------------
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
@@ -18,10 +17,6 @@ IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
     --background-brightness: 100%;
 }
 /*
---------------------------------------------------------------------------------------------------------------------------------------------
-*/
-/*
----------------------------------------------------------------------------------------------------------------------------------------------
 ========= CUSTOMIZABLE BACKGROUND IMAGE ==========
 */
 body::after,
@@ -37,5 +32,14 @@ body::after,
     background-image: url(https://github.com/Zerthox/ClearVision/raw/master/images/amber.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
---------------------------------------------------------------------------------------------------------------------------------------------
+/*
+========= JAPANESE COMPATIBLE CUSTOMIZATION ==========
 */
+.channel-members h2 {
+	padding: 5px 0px !important;
+	width: auto !important;
+}
+
+.chat > .content .messages .message-group .markup {
+    padding: 2px 0px;
+}
