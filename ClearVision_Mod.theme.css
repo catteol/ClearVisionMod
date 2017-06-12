@@ -1,7 +1,7 @@
 //META{"name":"ClearVision Mod","description":"Zerthox氏によるClearVision Amberテーマを日本語環境用にカスタマイズ、軽量化したテーマです。","author":"rexent_gx","version":"5.2.3"}*//{}
 
 /* IMPORT CSS FROM GITHUB */
-@import url(https://raw.githubusercontent.com/rexent-gx/ClearVisionMod/master/CSS%20Core/ClearVision_Mod_Core.css);
+@import url(https://gitcdn.xyz/repo/rexent-gx/ClearVisionMod/master/CSS%20Core/ClearVision_Mod_Core.css);
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
 IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
