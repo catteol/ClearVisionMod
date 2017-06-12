@@ -5,6 +5,7 @@ BetterDiscord用テーマです。Zerthox氏のClearVisionをベースに、日�
 基本的に最新版のClearVision_Mod.theme.cssを使用します。
 ファイルの個別ページ（ https://github.com/rexent-gx/ClearVisionMod/blob/master/ClearVision_Mod.theme.css ）にアクセスした後、右上の「Raw」を右クリックし、「名前をつけてリンク先を保存」して下さい。
 ダウンロードが終わったらCSSファイルをBetterDiscordのテーマフォルダにぶち込んで有効化して下さい。
+色なんかはCSSをいじれば好みの色に変更できますので、背景に合った配色にすれば気持ちよくなれます。
 
 # よくあるアレ
 (´・ω・｀)「テーマフォルダってどこ…？」
