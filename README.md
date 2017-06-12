@@ -1,0 +1,2 @@
+# ClearVisionMod
+BetterDiscord用テーマです。Zerthox氏のClearVisionをベースに、日本語環境用にカスタマイズ、軽量化を行っています。
